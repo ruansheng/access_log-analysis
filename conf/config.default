@@ -1,0 +1,5 @@
+#! /bin/bash
+
+log_file="/Users/ruansheng/Zend/workspaces/access_log-analysis/access.log"
+
+email="825307513@qq.com"
