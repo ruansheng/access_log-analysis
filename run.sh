@@ -12,11 +12,12 @@
 
 if [ $report_type = 'email' ];
 then
+    . temp/email.sh
 	. script/email.sh
-	
 	
 elif [ $report_type = 'cli' ];
 then
+    . temp/cli.sh
 	. script/cli.sh
 fi
 
