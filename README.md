@@ -1,5 +1,6 @@
 # access_log-analysis
-nginx access log analysis script
+##nginx access log analysis script
+
 
 ###目前access分析器可以分析统计的信息项如下:
 * 统计概况: HTTP响应代码、总PV数、总UV数
@@ -13,9 +14,6 @@ nginx access log analysis script
 * 浏览器和搜索引擎
 * DNS地址统计
 
-
-# 使用方法
-
 ## 下载
 ```Bash
 #方法0x01
@@ -26,6 +24,9 @@ git clone https://github.com/ruansheng/access_log-analysis.git
 ```
 
 ## 配置
+```Bash
+cp your_access.log $access_log-analysis/log/access.log
+```
 
 ## 运行
 ```Bash
