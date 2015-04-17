@@ -23,6 +23,7 @@ nginx access log analysis script
 ## 运行
 ```Bash
 sh run.sh email  或者 sh run.sh cli
+echo "hello world !" #test
 ```
 
 ## 结果
