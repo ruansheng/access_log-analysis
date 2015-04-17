@@ -1,4 +1,5 @@
-## access_log-analysis:nginx access log analysis script
+## nginx access log analysis script
+
 
 ##目前access分析器可以分析统计的信息项如下:
 * 统计概况: HTTP响应代码、总PV数、总UV数
