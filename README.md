@@ -21,5 +21,8 @@ nginx access log analysis script
 ## 配置
 
 ## 运行
+```Bash
+sh run.sh email  或者 sh run.sh cli
+```
 
 ## 结果
