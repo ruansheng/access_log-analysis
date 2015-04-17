@@ -17,13 +17,19 @@ nginx access log analysis script
 # 使用方法
 
 ## 下载
+```Bash
+#方法0x01
+wget https://github.com/ruansheng/access_log-analysis/archive/master.zip
+
+#方法0x02
+git clone https://github.com/ruansheng/access_log-analysis.git
+```
 
 ## 配置
 
 ## 运行
 ```Bash
 sh run.sh email  或者 sh run.sh cli
-echo "hello world !" #test
 ```
 
 ## 结果
